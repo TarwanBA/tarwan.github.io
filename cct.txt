@@ -1,0 +1,5 @@
+configurasi setelah perubahan coding di github
+-git .
+-git commit -m ' ketereangan perubahan'
+-git push
+ctrl + shif R
